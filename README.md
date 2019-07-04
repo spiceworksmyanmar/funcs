@@ -1,0 +1,2 @@
+# Required Functions for Laravel
+
